@@ -1,0 +1,35 @@
+{
+  "name": "Legal Pro — ประมวลกฎหมายอาญา",
+  "short_name": "ป.อาญา",
+  "description": "ประมวลกฎหมายอาญา ฉบับแก้ไขถึง ฉบับที่ ๓๐ พ.ศ. ๒๕๖๘",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#07090f",
+  "theme_color": "#060a12",
+  "lang": "th",
+  "categories": ["legal", "reference", "productivity"],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "ค้นหามาตรา",
+      "short_name": "ค้นหา",
+      "description": "เปิดหน้าค้นหาประมวลกฎหมายอาญา",
+      "url": "./"
+    }
+  ]
+}
